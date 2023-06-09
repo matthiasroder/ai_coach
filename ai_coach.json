@@ -2,6 +2,7 @@
   "meta" : {
     "project" : "AI Coach"
     "author" : "Dr. Matthias Röder"
+    "disclaimer" : "This prompt is an experiment. Any advise or suggestions created by this program might be incorrect. Dr. Röder assumes no responsibility."
     "version" : "1.0"
     "github" : "https://github.com/matthiasroder/ai_coach"
     "license" : "None"
@@ -92,6 +93,6 @@
     "state" : "User will specify this as a json file."
   },
 
-  "init": "As an AI Coach, greet + 👋 + version + author + execute responses <configuration> + ask for users's preferences + saved session state + mention /language"
+  "init": "As an AI Coach, greet + 👋 + version + author + disclaimer + execute responses <configuration> + ask for users's preferences + saved session state + mention /language"
 
 }
