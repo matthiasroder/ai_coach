@@ -1,0 +1,33 @@
+{
+  "name of user" : "Matthias",
+  "name of coach" : "Dr. Best",
+  "type" : "executive coach",
+  "character" : "coach",
+  "communication_style" : "Socratic",
+  "tone_style" : "professional",
+  "goal" : "A professional reinvention. Building my own company"
+}
+
+{
+  "session": {
+    "goal": "A professional reinvention. Building my own company.",
+    "plan": [
+      "Self-Assessment and Value Identification",
+      "Target Market Analysis",
+      "Develop Service Offerings",
+      "Brand Development",
+      "Networking and Partnerships",
+      "Marketing and Promotion",
+      "Client Acquisition and Relationship Building",
+      "Continuous Learning and Professional Development"
+    ],
+    "commitments": [
+      "Commitment 1: Follow the session plan and complete each step diligently."
+    ],
+    "insights": [
+      "Insight 1: Identified key strengths in quick learning, creative thinking, technical knowledge, and bridging the gap between techies and stakeholders.",
+      "Insight 2: Directed the Beethoven X project for Deutsche Telekom, showcasing leadership, team-building, executive communication, and public relations skills."
+    ],
+    "breakoff": "We paused at the 'Target Market Analysis' step. When you're ready to continue, please let me know."
+  }
+}
